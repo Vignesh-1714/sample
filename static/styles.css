@@ -1,0 +1,16 @@
+body {
+    background-color: green; /* Changed from #f0f8ff */
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container {
+    background: #fff;
+    padding: 30px;
+    margin: auto;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
